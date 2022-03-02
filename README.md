@@ -3,9 +3,9 @@ Seja bem-vindo ao meu repositório.
 
 - 💻 Cursando **Profissão Engenheiro de Front-End** na EBAC
 - 📱 Cursando **Profissão UX/UI** na EBAC
-- Formado em Publicidade e Propaganda
-- Atuo na área de Design / UX-UI / Front-End
-- Confira meu portfólio aqui no [repositório](https://github.com/fernandoluistp/portfolio-frontend)
+- 🎞️ Formado em Publicidade e Propaganda
+- 🧩 Atuo na área de Design / UX-UI / Front-End
+- 🗃️ Confira meu portfólio aqui no [repositório](https://github.com/fernandoluistp/portfolio-frontend)
 
 <!--
 **fernandoluistp/fernandoluistp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
