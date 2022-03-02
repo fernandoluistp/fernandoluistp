@@ -1,5 +1,5 @@
 ### Olá!
-Seja bem-vindo ao meu repositório.
+Seja bem-vindo ao meu perfil.
 
 - 💻 Cursando **Profissão Engenheiro de Front-End** na EBAC
 - 📱 Cursando **Profissão UX/UI** na EBAC
